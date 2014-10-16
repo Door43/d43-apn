@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[apn:home|Door43 (apn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-apn|d43-apn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-apn/archive/master.zip|d43-apn.zip]]
+
+**Recent Changes**
+{{changes>ns = apn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/apn|Ethnologue data]]
+
